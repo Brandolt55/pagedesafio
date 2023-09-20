@@ -1,5 +1,4 @@
-# pagedesafio
-projeto de desenvolvimento de uma landing page- desafio 1 da escola DNC
+# Desafio 1 -Resolução
 
 Link do site disponibilizado: https://brandolt-aluno-dnc.netlify.app/
 
